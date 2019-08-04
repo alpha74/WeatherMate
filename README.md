@@ -3,11 +3,12 @@
 * Uses OpenWeather API to list weather of a region.
 
 * Input: City Name
-* Lists:
+
+* Outputs:
 	1. Weather
 	2. Temperature
 	3. Humidity
 	
 
-* Requirements of Python:
-	1. requests module
+* Required python package:
+	1. requests 
